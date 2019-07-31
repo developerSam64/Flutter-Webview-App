@@ -14,7 +14,6 @@ IDE: Android Studio 3.2.1
 
 ### ScreenShots
 
-![picture](flutter webview.png)
 
 ## Getting Started
 
